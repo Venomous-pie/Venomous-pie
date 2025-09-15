@@ -1,7 +1,9 @@
 # 💫 About Me:
 A !motivated and passionate full-stack web developer who's constantly learning and forgetting cool languages.
 
-https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydmt2bmQ2ZWVsc2UwbnA5Y2F2czF4b21reTR3N2dxMmtnZnN6dzczayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif
+<p align="center">
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" alt="cat typing">
+</p>
 
 # 💻 Tech Stack:
 <p align="center">
