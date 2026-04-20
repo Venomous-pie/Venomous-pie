@@ -1,43 +1,79 @@
-# 💫 About Me:
-A !motivated and passionate full-stack web developer who's constantly learning and forgetting cool languages.
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" alt="cat typing">
-</p>
+# **Venomous-pie**
 
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF" />
-  <img src="https://img.shields.io/badge/unocss-333333.svg?style=flat&logo=unocss&logoColor=white" />
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-</p>
+**full-stack developer**
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venomous-pie&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Venomous-pie&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous-pie&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
+*Building things on the web. Constantly learning, occasionally forgetting.*
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
+[![GitHub](https://img.shields.io/badge/github-Venomous--pie-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/Venomous-pie)
+&nbsp;
+![visitors](https://visitcount.itsvg.in/api?id=Venomous-pie&icon=5&color=6)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Venomous-pie&icon=5&color=0)](https://visitcount.itsvg.in)
+ 
+### about
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <pre>
+focus:      TypeScript/Vue.js full-stack development                    
+currently:  Vue.js + TypeScript                                        
+vibe:       motivated, occasionally caffeinated                        
+superpower: debugging at 2am                                                                 </pre>
+    </td>
+    <td align="right" valign="middle" width="180">
+      <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="160"/>
+    </td>
+  </tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### tech stack
+
+**languages**
+`JavaScript` &nbsp; `TypeScript` &nbsp; `Kotlin` &nbsp; `C++`
+
+**frontend**
+`Vue.js` &nbsp; `React` &nbsp; `UnoCSS` &nbsp; `Figma` &nbsp; `Tailwind`
+
+**backend & db**
+`Express.js` &nbsp; `PostgreSQL` &nbsp; `SQLite` &nbsp; `Firebase`
+
+**infra & tools**
+`Vercel` &nbsp; `Render` &nbsp; `Git` &nbsp; `GitHub`
+
+---
+ 
+### github stats
+ 
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Venomous-pie&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=6e7681&text_color=6e7681&icon_color=6e7681" width="380"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous-pie&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=6e7681&text_color=6e7681" width="280"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### random dev quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>venomous-pie · 2025</sub>
+</div>
