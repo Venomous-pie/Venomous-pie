@@ -23,7 +23,7 @@
 focus:      TypeScript/Vue.js full-stack development                    
 currently:  Vue.js + TypeScript                                        
 vibe:       motivated, occasionally caffeinated                        
-superpower: debugging at 2am                                                      </pre>
+superpower: debugging at 2am                                                       </pre>
     </td>
     <td align="right" valign="middle" width="180">
       <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="160"/>
