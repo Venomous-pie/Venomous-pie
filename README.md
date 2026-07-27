@@ -1,9 +1,8 @@
 <div align="center">
 
 # **Claire Jem Dedicatoria**
-
 **full-stack developer**
-
+</br>
 *Building things on the web. Constantly learning, occasionally forgetting.*
 
 [![GitHub](https://img.shields.io/badge/github-Venomous--pie-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/Venomous-pie)
@@ -13,9 +12,9 @@
 </div>
 
 ---
- 
+
 ### about
- 
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="middle">
@@ -48,9 +47,22 @@ superpower: debugging at 2am                                                    
 `Vercel` &nbsp; `Render` &nbsp; `Git` &nbsp; `GitHub`
 
 ---
- 
+
+### projects
+
+**Knot and Bloom** — multi-vendor artisan marketplace for PH sellers who've outgrown running a shop through social media DMs. Guided listing flow with AI-assisted suggestions, mobile app + web dashboard.
+`in active development`
+
+**Cafe POS** — offline-first point-of-sale for small independent cafes. No subscription, a column-mapping import wizard for migrating existing product lists, and support for how people actually pay here (Cash, GCash, Maya, Maribank).
+`cafe-pos-demo.vercel.app`
+
+**Hotel Reservations & Management System** — reservation logic built around real front-desk chaos — walk-ins, last-minute changes — instead of idealized bookings, with a double-booking prevention engine and real-time sync across devices.
+`school project · NEMSU`
+
+---
+
 ### github stats
- 
+
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="8">
   <tr>
