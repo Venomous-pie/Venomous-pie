@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Venomous-pie**
+# **Claire Jem Dedicatoria**
 
 **full-stack developer**
 
